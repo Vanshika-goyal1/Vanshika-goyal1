@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vanshika Goyal</h1>
-<h3 align="center">Exploring the world of Development and Problem Solving |ML Enthusiast|Passionate About Emerging Technologies</h3>
+<h3 align="center">Exploring the world of Development and Problem Solving | ML Enthusiast| Passionate About Emerging Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshika-goyal1&label=Profile%20views&color=0e75b6&style=flat" alt="vanshika-goyal1" /> </p>
 
