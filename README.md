@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://vanshika-goyal-30225524a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://wwvanshika-goyal-30225524a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vanshika-goyal-30225524a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://wwvanshika-goyal-30225524a" height="30" width="40" /></a>
 <a href="https://instagram.com/vanshika_goyal17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vanshika_goyal17" height="30" width="40" /></a>
 </p>
 
