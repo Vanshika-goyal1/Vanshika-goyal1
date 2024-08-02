@@ -14,9 +14,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshika-goyal1&show_icons=true&locale=en&layout=compact" alt="vanshika-goyal1" /></p>
+# <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshika-goyal1&show_icons=true&locale=en&layout=compact" alt="vanshika-goyal1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshika-goyal1&show_icons=true&locale=en" alt="vanshika-goyal1" /></p>
+# <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshika-goyal1&show_icons=true&locale=en" alt="vanshika-goyal1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshika-goyal1&" alt="vanshika-goyal1" /></p>
 
