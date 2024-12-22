@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ML,Web Development and Mastering DSA.**
 
-- 📫 How to reach me **vanshikagoyal1704@gmail.com**
+- 📫 How to reach me **vanshikagoyal634@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
